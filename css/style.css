@@ -957,3 +957,8 @@ a {
     background: #28a745;
     color: #fff;
     border: 1px solid transparent; }
+.bg-green{
+  border: solid 1px #28a745;
+  color: #28a745;
+
+}
